@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /submissions/grading
 title: 6a. Grading
 ---
 
@@ -18,4 +19,4 @@ The instructor can also view the submission status of a particular assessment
 
 ![6A-3](/images/6A-3.gif)
 
-[next](/help/6-submissions/B-code-review-comments)
+[next](/submissions/code-review-comments)

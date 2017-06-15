@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /submissions/code-review-comments
 title: 6b. Code Review & Comments
 ---
 

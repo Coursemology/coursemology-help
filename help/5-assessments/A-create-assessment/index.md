@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /assessments/create-assessment
 title: 5a. Create an Assessment
 ---
 
@@ -17,4 +18,4 @@ To publish your assessment (or to change the settings)
 
 ![5A-2](/images/5A-2.gif)
 
-[next](/help/5-assessments/B-create-question)
+[next](/assessments/create-question)

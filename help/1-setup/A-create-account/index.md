@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /setup/create-account
 title: 1a. Creating your Coursemology account
 ---
 
@@ -13,4 +14,4 @@ Log into your email and click on the confirmation link sent to you
 
 ![1A-2](/images/1A-2.gif)
 
-[next](/help/1-setup/B-account-settings)
+[next](/setup/account-settings)

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /assessments/create-programming-question
 title: 5c. Create a Programming Question
 ---
 
@@ -20,4 +21,4 @@ Following which, you can create public and private test cases for the code by cl
 
 ![5C-3](/images/5C-3.gif)
 
-[next](/help/5-assessments/D-student-instructor-view)
+[next](/assessments/student-instructor-view)

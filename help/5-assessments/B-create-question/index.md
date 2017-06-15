@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /assessments/create-question
 title: 5b. Create MCQ / MRQ
 ---
 
@@ -19,4 +20,4 @@ To create MRQ questions
 
 ![5B-2](/images/5B-2.gif)
 
-[next](/help/5-assessments/C-create-programming-question)
+[next](/assessments/create-programming-question)

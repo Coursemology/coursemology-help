@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /assessments/student-instructor-view
 title: 5d. Student / Instructor's View
 ---
 
@@ -13,4 +14,4 @@ The instructor is able to see private test cases, and can also see the expected 
 
 ![5D-2](/images/5D-2.png)
 
-[next](/help/6-submissions/A-grading)
+[next](/submissions/grading)

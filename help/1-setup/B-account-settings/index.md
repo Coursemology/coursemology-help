@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /setup/account-settings
 title: 1b. Manage your account settings
 ---
 
@@ -18,4 +19,4 @@ Note that as a student, you cannot create a course! (You need to be an instructo
 
 ![1B-3](/images/1B-3.gif)
 
-[next](/help/2-coursemology/A-settings)
+[next](/coursemology/settings)

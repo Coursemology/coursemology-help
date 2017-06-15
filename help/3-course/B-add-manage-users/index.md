@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /course/add-manage-users
 title: 3b. Add / Manage Users
 ---
 
@@ -31,4 +32,4 @@ To upgrade the user to Teaching Assistant, Manager or Owner,
 
 ![3B-5](/images/3B-5.gif)
 
-[next](/help/4-additional/A-announcements)
+[next](/additional/announcements)

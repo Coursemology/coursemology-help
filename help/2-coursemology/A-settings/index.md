@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /coursemology/settings
 title: 2. Coursemology Settings
 ---
 
@@ -21,4 +22,4 @@ To upgrade your other users to an Instructor:
 
 ![2A-2](/images/2A-2.gif)
 
-[next](/help/3-course/A-create-course)
+[next](/course/create-course)

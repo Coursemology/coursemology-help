@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /additional/course-material
 title: 4b. Course Materials
 ---
 
@@ -15,4 +16,4 @@ To upload files,
 
 ![4B-2](/images/4B-2.gif)
 
-[next](/help/5-assessments/A-create-assessment)
+[next](/assessments/create-assessment)

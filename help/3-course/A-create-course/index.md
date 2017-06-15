@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /course/create-course
 title: 3a. Creating a course
 ---
 	
@@ -17,4 +18,4 @@ Be careful not to delete the course by accident!
 
 ![3A-3](/images/3A-3.gif)
 
-[next](/help/3-course/B-add-manage-users)
+[next](/course/add-manage-users)

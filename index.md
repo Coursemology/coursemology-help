@@ -2,4 +2,4 @@
 layout: home
 ---
 
-{% include navbar.md %}
+Here you can find all you need to know about how to use Coursemology!

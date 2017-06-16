@@ -8,18 +8,18 @@ title: 1b. Manage your account settings
 
 Log into Coursemology.
 
-![1B-1](/images/1B-1.gif)
+![1B-1](https://zhengwei143.github.io/Coursemology-help/images/1B-1.gif)
 
 To set a profile picture: 
   * GOTO: **"Username" > Account Settings > Profile**
   * Upload your desired profile picture
 
-![1B-2](/images/1B-2.gif)
+![1B-2](https://zhengwei143.github.io/Coursemology-help/images/1B-2.gif)
 
 Note that as a student, you cannot create a course! (You need to be an instructor.)
 
-![1B-3](/images/1B-3.gif)
+![1B-3](https://zhengwei143.github.io/Coursemology-help/images/1B-3.gif)
 
-[previous](/setup/create-account)
+[previous](https://zhengwei143.github.io/Coursemology-help/setup/create-account)
 
-[next](/coursemology/settings)
+[next](https://zhengwei143.github.io/Coursemology-help/coursemology/settings)

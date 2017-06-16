@@ -8,7 +8,7 @@ The following is what the student will see when he/she is attempting the questio
 
 Notice that for the programming question, the **student can only see public test cases**.
 
-![4D-1](/images/4D-1.gif)
+![4D-1](https://zhengwei143.github.io/Coursemology-help/images/4D-1.gif)
 
 The following is what the instructor will see when viewing the student's submission.
 
@@ -18,8 +18,8 @@ The instructor is able to see:
   3. **Expected answers** (for each test case)
   4. **Output of student's code** (for each test case)
 
-![4D-2](/images/4D-2.png)
+![4D-2](https://zhengwei143.github.io/Coursemology-help/images/4D-2.png)
 
-[previous](/assessments/create-programming-question)
+[previous](https://zhengwei143.github.io/Coursemology-help/assessments/create-programming-question)
 
-[next](/submissions/grading)
+[next](https://zhengwei143.github.io/Coursemology-help/submissions/grading)

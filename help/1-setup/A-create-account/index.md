@@ -17,4 +17,4 @@ Log into your email and click on the confirmation link sent to you
 ![1A-2](https://zhengwei143.github.io/Coursemology-help/images/1A-2.gif)
 
 
-[next](/setup/account-settings)
+[next](https://zhengwei143.github.io/Coursemology-help/setup/account-settings)

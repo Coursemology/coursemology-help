@@ -11,8 +11,8 @@ Create a new forum at:
 
 You can create multiple forums (based on different genres) so that the discussions are well organized!
 
-![6E-1](/images/6E-1.png)
+![6E-1](https://zhengwei143.github.io/Coursemology-help/images/6E-1.png)
 
-[previous](/additional/lesson-plan)
+[previous](https://zhengwei143.github.io/Coursemology-help/additional/lesson-plan)
 
-[next](/additional/survey)
+[next](https://zhengwei143.github.io/Coursemology-help/additional/survey)

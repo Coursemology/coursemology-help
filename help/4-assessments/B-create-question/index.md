@@ -10,7 +10,7 @@ To create MCQs:
   3. Fill in the details and the corresponding options (make sure you put a correct option!)
   4. **Submit**
 
-![4B-1](/images/4B-1.gif)
+![4B-1](https://zhengwei143.github.io/Coursemology-help/images/4B-1.gif)
 
 To create MRQs:
   1. Navigate to the assessment
@@ -18,8 +18,8 @@ To create MRQs:
   3. Fill in the details and the corresponding options (you can choose multiple correct options)
   4. **Submit**
 
-![4B-2](/images/4B-2.gif)
+![4B-2](https://zhengwei143.github.io/Coursemology-help/images/4B-2.gif)
 
-[previous](/assessments/create-assessment)
+[previous](https://zhengwei143.github.io/Coursemology-help/assessments/create-assessment)
 
-[next](/assessments/create-programming-question)
+[next](https://zhengwei143.github.io/Coursemology-help/assessments/create-programming-question)

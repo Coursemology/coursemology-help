@@ -9,13 +9,13 @@ To create a programming question:
   2. Click **New** and select **programming** in the dropdown
   3. Fill in the details (make sure you select the correct programming language!)
 
-![4C-1](/images/4C-1.gif)
+![4C-1](https://zhengwei143.github.io/Coursemology-help/images/4C-1.gif)
 
 To make it autograded, toggle the **Autograded** bar, and an editor should show up on screen.
   1. Write into the submission template (what the student sees)
   2. Write into the solution template (the correct solution to the question)
 
-![4C-2](/images/4C-2.gif)
+![4C-2](https://zhengwei143.github.io/Coursemology-help/images/4C-2.gif)
 
 Following which, you can create public and private test cases for the code by clicking **Add New Test**
 
@@ -23,8 +23,8 @@ Minimally, you will need to fill in the fields:
   * **Expression**
   * **Expected**
 
-![4C-3](/images/4C-3.gif)
+![4C-3](https://zhengwei143.github.io/Coursemology-help/images/4C-3.gif)
 
-[previous](/assessments/create-question)
+[previous](https://zhengwei143.github.io/Coursemology-help/assessments/create-question)
 
-[next](/assessments/student-instructor-view)
+[next](https://zhengwei143.github.io/Coursemology-help/assessments/student-instructor-view)

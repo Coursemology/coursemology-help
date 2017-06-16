@@ -10,11 +10,11 @@ Enter the your account details and **Submit**.
 
 You should see a notification informing you that an email has been sent to your email account.
 
-![1A-1](/images/1A-1.gif)
+![1A-1](images/1A-1.gif)
 
 Log into your email and click on the confirmation link sent to you
 
-![1A-2](/images/1A-2.gif)
+![1A-2](images/1A-2.gif)
 
 
 [next](/setup/account-settings)

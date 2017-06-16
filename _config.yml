@@ -18,6 +18,7 @@ email: your-email@domain.com
 description: Here to help you with all your questions about coursemology!
 baseurl: "/Coursemology-help/" # the subpath of your site, e.g. /blog
 url: "http://zhengwei143.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github: zhengwei143
 
 
 # Build settings

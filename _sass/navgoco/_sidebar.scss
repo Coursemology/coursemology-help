@@ -1,6 +1,24 @@
 /**
  * Side bar
  */
+.sidebar {
+    float: left;
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    padding: 0;
+    margin: 20px 20px;
+}
+
+.sidebar-title {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding: 4px 10px;
+}
+
+.sidebar-title {
+    font-weight: bold;
+}
+
 .nav, .nav ul, .nav li {
     list-style: none;
 }
@@ -13,6 +31,7 @@
 .nav {
     padding: 4px;
     margin: 0px;
+    width: 250px;
 }
 
 .nav > li {
@@ -24,7 +43,7 @@
 }
 
 .nav a {
-    color: #333;
+    color: #337ab7;
     display: block;
     outline: none;
     -webkit-border-radius: 4px;
@@ -60,13 +79,13 @@
 }
 
 .nav li a {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 18px;
-    padding: 2px 10px;
+    padding: 10px 10px;
 }
 
 .nav > li > a {
     font-size: 14px;
     line-height: 20px;
-    padding: 4px 10px;
+    padding: 10px 10px;
 }

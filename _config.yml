@@ -17,9 +17,8 @@ title: Coursemology Help
 email: your-email@domain.com
 description: Here to help you with all your questions about coursemology!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://zhengwei143.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Build settings
 markdown: kramdown

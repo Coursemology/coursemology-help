@@ -10,16 +10,18 @@ Take note of any RED buttons in the 'Instance Administration Panel' as they are 
 
 
 To view users and courses in your Coursemology instance:
-	1) GOTO: "Username" > Instance Administration Panel > Users
-	2) GOTO: "Username" > Instance Administration Panel > Courses
+  * GOTO: **"Username" > Instance Administration Panel > Users**
+  * GOTO: **"Username" > Instance Administration Panel > Courses**
 
 ![2A-1](/images/2A-1.gif)
 
 To upgrade your other users to an Instructor:
-	1) "Your Name" > Instance Administration Panel > Users
-	2) Change to role of the user to "Instructor" and click the blue check box.
-	3) There should be a notification confirming that the user was updated.
+  1. GOTO: **"Your Name" > Instance Administration Panel > Users**
+  2. Change to role of the user to **Instructor** and click the blue check box.
+  3. There should be a notification confirming that the user was updated.
 
 ![2A-2](/images/2A-2.gif)
+
+[previous](/setup/account-settings)
 
 [next](/course/create-course)

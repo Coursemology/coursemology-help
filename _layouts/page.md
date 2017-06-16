@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<article class="help-page">
+<article class="post">
 
-  <header class="help-page-header">
-    <h1 class="help-page-title">{{ page.title | escape }}</h1
+  <header class="post-header">
+    <h1>{{ page.title | escape }}</h1>
   </header>
 
-  <div class="help-page-content">
+  <div class="post-content">
     {{ content }}
   </div>
 

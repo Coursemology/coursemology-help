@@ -44,8 +44,9 @@ $on-laptop:        800px !default;
 
 // Import partials.
 @import
+  "navgoco/sidebar",
+  "bootstrap/bootstrap",
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting",
-  "navgoco/nav"
+  "minima/syntax-highlighting"
 ;

@@ -13,7 +13,7 @@ As an instructor, you now can create a new course!
 To modify course settings: 
   * GOTO: **Course Settings** (Sidebar)
 
-![Course settings]({{ site.url }}/{{ site.baseurl }}/images/3A-2.png)
+![3A-2]({{ site.url }}/{{ site.baseurl }}/images/3A-2.png)
 
 Be careful not to delete the course by accident!
 

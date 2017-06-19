@@ -24,7 +24,7 @@ Note that as a student, you cannot create a course! (You need to be an instructo
 
 [next]({{ site.url }}/{{ site.baseurl }}/coursemology/settings) -->
 {% capture previous_url %}{{ "{{ site.baseurl }}/setup/create-account" }}{% endcapture %}
-
+{% capture previous_url %}{{ "1a. Create Account" }}{% endcapture %}
 {% capture next_url %}{{ "{{ site.baseurl }}/coursemology/settings" }}{% endcapture %}
-
+{% capture next_url %}{{ "2. Coursemology Settings" }}{% endcapture %}
 {% include page-nav.html %}

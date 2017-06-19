@@ -24,4 +24,4 @@ Note that as a student, you cannot create a course! (You need to be an instructo
 
 [next]({{ site.url }}/{{ site.baseurl }}/coursemology/settings) -->
 
-<% include page-nav.html %>
+{% include page-nav.html %}

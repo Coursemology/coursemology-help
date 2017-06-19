@@ -13,15 +13,15 @@ To view users and courses in your Coursemology instance:
   * GOTO: **"Username" > Instance Administration Panel > Users**
   * GOTO: **"Username" > Instance Administration Panel > Courses**
 
-![2A-1](https://zhengwei143.github.io/Coursemology-help/images/2A-1.gif)
+![2A-1]({{ site.url }}/{{ site.baseurl }}/images/2A-1.gif)
 
 To upgrade your other users to an Instructor:
   1. GOTO: **"Your Name" > Instance Administration Panel > Users**
   2. Change to role of the user to **Instructor** and click the blue check box.
   3. There should be a notification confirming that the user was updated.
 
-![2A-2](https://zhengwei143.github.io/Coursemology-help/images/2A-2.gif)
+![2A-2]({{ site.url }}/{{ site.baseurl }}/images/2A-2.gif)
 
-[previous](https://zhengwei143.github.io/Coursemology-help/setup/account-settings)
+[previous]({{ site.url }}/{{ site.baseurl }}/setup/account-settings)
 
-[next](https://zhengwei143.github.io/Coursemology-help/course/create-course)
+[next]({{ site.url }}/{{ site.baseurl }}/course/create-course)

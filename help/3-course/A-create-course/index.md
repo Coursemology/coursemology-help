@@ -8,17 +8,17 @@ As an instructor, you now can create a new course!
   1. GOTO: **Courses > All Courses > New Course**
   2. Enter the details of the course and **Submit**
 
-![3a-1](https://zhengwei143.github.io/Coursemology-help/images/3A-1.gif)
+![3a-1]({{ site.url }}/{{ site.baseurl }}/images/3A-1.gif)
 
 To modify course settings: 
   * GOTO: **Course Settings** (Sidebar)
 
-![Course settings](https://zhengwei143.github.io/Coursemology-help/images/3A-2.png)
+![Course settings]({{ site.url }}/{{ site.baseurl }}/images/3A-2.png)
 
 Be careful not to delete the course by accident!
 
-![3A-3](https://zhengwei143.github.io/Coursemology-help/images/3A-3.gif)
+![3A-3]({{ site.url }}/{{ site.baseurl }}/images/3A-3.gif)
 
-[previous](https://zhengwei143.github.io/Coursemology-help/coursemology/settings)
+[previous]({{ site.url }}/{{ site.baseurl }}/coursemology/settings)
 
-[next](https://zhengwei143.github.io/Coursemology-help/course/add-manage-users)
+[next]({{ site.url }}/{{ site.baseurl }}/course/add-manage-users)

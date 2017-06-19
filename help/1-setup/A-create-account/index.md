@@ -19,7 +19,7 @@ Log into your email and click on the confirmation link sent to you
 
 <!-- [next]({{ site.url }}/{{ site.baseurl }}/setup/account-settings) -->
 <!-- Define variables for page-nav partial -->
-{% capture next_url %}{{ "{{ site.baseurl }}/setup/account-settings" }}{% endcapture %}
-{% capture next_url_title %}{{ "1b. Account Settings" }}{% endcapture %}
+{% capture next_url %} {{ site.baseurl }}/setup/account-settings {% endcapture %}
+{% capture next_title %} 1b. Account Settings {% endcapture %}
 
 {% include page-nav.html %}

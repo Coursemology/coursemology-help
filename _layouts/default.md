@@ -7,10 +7,11 @@
 
     {% include header.html %}
 
-    {% include sidebar.html %}
+    <main class="post-content" aria-label="Content">
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+      {% include sidebar.html %}
+
+      <div class="post col-md-9">
         {{ content }}
       </div>
     </main>

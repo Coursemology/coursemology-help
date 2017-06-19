@@ -18,5 +18,6 @@ Log into your email and click on the confirmation link sent to you
 
 
 <!-- [next]({{ site.url }}/{{ site.baseurl }}/setup/account-settings) -->
+{% capture next_url %}{{ "{{ site.baseurl }}/setup/account-settings" }}{% endcapture %}
 
 {% include page-nav.html %}

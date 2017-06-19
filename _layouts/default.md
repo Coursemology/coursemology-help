@@ -7,7 +7,7 @@
 
     {% include header.html %}
 
-    <main class="container-fluid post-content" aria-label="Content">
+    <main class="container-fluid" aria-label="Content">
       <div class="row">
         {% include sidebar.html %}
 

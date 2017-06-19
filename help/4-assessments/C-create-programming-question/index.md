@@ -25,10 +25,6 @@ Minimally, you will need to fill in the fields:
 
 ![4C-3]({{ site.baseurl }}/images/4C-3.gif)
 
-[previous]({{ site.baseurl }}/assessments/create-question)
-
-[next]({{ site.baseurl }}/assessments/student-instructor-view)
-
 {% capture previous_url %} {{ site.baseurl }}/assessments/create-question {% endcapture %}
 {% capture previous_title %} 4b. Create MCQ / MRQ {% endcapture %}
 

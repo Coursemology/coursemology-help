@@ -19,7 +19,9 @@ To set a profile picture:
 Note that as a student, you cannot create a course! (You need to be an instructor.)
 
 ![1B-3]({{ site.url }}/{{ site.baseurl }}/images/1B-3.gif)
-
+<!-- 
 [previous]({{ site.url }}/{{ site.baseurl }}/setup/create-account)
 
-[next]({{ site.url }}/{{ site.baseurl }}/coursemology/settings)
+[next]({{ site.url }}/{{ site.baseurl }}/coursemology/settings) -->
+
+<% include page-navigation.html %>

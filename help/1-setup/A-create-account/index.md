@@ -17,4 +17,6 @@ Log into your email and click on the confirmation link sent to you
 ![1A-2]({{ site.url }}/{{ site.baseurl }}/images/1A-2.gif)
 
 
-[next]({{ site.url }}/{{ site.baseurl }}/setup/account-settings)
+<!-- [next]({{ site.url }}/{{ site.baseurl }}/setup/account-settings) -->
+
+<% include page-navigation.html %>

@@ -11,7 +11,7 @@
       <div class="row">
         {% include sidebar.html %}
 
-        <div class="post col-lg-9 col-md-8 col-sm-6">
+        <div class="post col-lg-8 col-md-8 col-sm-6">
           {{ content }}
         </div>
       </div>

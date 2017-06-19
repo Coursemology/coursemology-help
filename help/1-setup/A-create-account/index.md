@@ -19,4 +19,4 @@ Log into your email and click on the confirmation link sent to you
 
 <!-- [next]({{ site.url }}/{{ site.baseurl }}/setup/account-settings) -->
 
-<% include page-navigation.html %>
+<% include page-nav.html %>

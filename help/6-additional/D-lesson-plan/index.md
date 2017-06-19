@@ -21,7 +21,7 @@ On this page, there are 2 things you can create:
 
 **Notice:** Assessments that are created will also show on the lesson plan! Their positions are determined by their **start dates**.
 
-![6D-1]({{ site.url }}/{{ site.baseurl }}/images/6D-1.png)
+![6D-1]({{ site.baseurl }}/images/6D-1.png)
 
 To create a **Milestone**:
   1. Click **New Lesson Plan Milestone**
@@ -29,7 +29,7 @@ To create a **Milestone**:
   3. The **Start at** date is demarcator indicating that the milestone has been reached
   4. **Create Milestone**
 
-![6D-2]({{ site.url }}/{{ site.baseurl }}/images/6D-2.png)
+![6D-2]({{ site.baseurl }}/images/6D-2.png)
 
 To create a new **Lesson Plan Event**:
   1. Click **New Lesson Plan Event**
@@ -37,8 +37,12 @@ To create a new **Lesson Plan Event**:
   3. The **Start at** date determines the event's position on the timeline
   4. **Create Event**
 
-![6D-3]({{ site.url }}/{{ site.baseurl }}/images/6D-3.png)
+![6D-3]({{ site.baseurl }}/images/6D-3.png)
 
-[previous]({{ site.url }}/{{ site.baseurl }}/additional/achievements)
+{% capture previous_url %} {{ site.baseurl }}/additional/achievements {% endcapture %}
+{% capture previous_title %} 6c. Achievements {% endcapture %}
 
-[next]({{ site.url }}/{{ site.baseurl }}/additional/forum)
+{% capture next_url %} {{ site.baseurl }}/additional/forum {% endcapture %}
+{% capture next_title %} 6e. Forum {% endcapture %}
+
+{% include page-nav.html %}

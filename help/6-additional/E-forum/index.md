@@ -11,8 +11,12 @@ Create a new forum at:
 
 You can create multiple forums (based on different genres) so that the discussions are well organized!
 
-![6E-1]({{ site.url }}/{{ site.baseurl }}/images/6E-1.png)
+![6E-1]({{ site.baseurl }}/images/6E-1.png)
 
-[previous]({{ site.url }}/{{ site.baseurl }}/additional/lesson-plan)
+{% capture previous_url %} {{ site.baseurl }}/additional/lesson-plan {% endcapture %}
+{% capture previous_title %} 6d. Lesson Plan {% endcapture %}
 
-[next]({{ site.url }}/{{ site.baseurl }}/additional/survey)
+{% capture next_url %} {{ site.baseurl }}/additional/survey {% endcapture %}
+{% capture next_title %} 6f. Survey {% endcapture %}
+
+{% include page-nav.html %}

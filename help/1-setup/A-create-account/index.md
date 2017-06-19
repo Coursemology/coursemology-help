@@ -10,14 +10,12 @@ Enter the your account details and **Submit**.
 
 You should see a notification informing you that an email has been sent to your email account.
 
-![1A-1]({{ site.url }}/{{ site.baseurl }}/images/1A-1.gif)
+![1A-1]({{ site.baseurl }}/images/1A-1.gif)
 
 Log into your email and click on the confirmation link sent to you
 
-![1A-2]({{ site.url }}/{{ site.baseurl }}/images/1A-2.gif)
+![1A-2]({{ site.baseurl }}/images/1A-2.gif)
 
-
-<!-- [next]({{ site.url }}/{{ site.baseurl }}/setup/account-settings) -->
 <!-- Define variables for page-nav partial -->
 {% capture next_url %} {{ site.baseurl }}/setup/account-settings {% endcapture %}
 {% capture next_title %} 1b. Account Settings {% endcapture %}

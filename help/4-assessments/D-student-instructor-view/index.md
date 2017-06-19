@@ -8,7 +8,7 @@ The following is what the student will see when he/she is attempting the questio
 
 Notice that for the programming question, the **student can only see public test cases**.
 
-![4D-1]({{ site.url }}/{{ site.baseurl }}/images/4D-1.gif)
+![4D-1]({{ site.baseurl }}/images/4D-1.gif)
 
 The following is what the instructor will see when viewing the student's submission.
 
@@ -18,8 +18,12 @@ The instructor is able to see:
   3. **Expected answers** (for each test case)
   4. **Output of student's code** (for each test case)
 
-![4D-2]({{ site.url }}/{{ site.baseurl }}/images/4D-2.png)
+![4D-2]({{ site.baseurl }}/images/4D-2.png)
 
-[previous]({{ site.url }}/{{ site.baseurl }}/assessments/create-programming-question)
+{% capture previous_url %} {{ site.baseurl }}/assessments/create-programming-question {% endcapture %}
+{% capture previous_title %} 4c. Create Programming Question {% endcapture %}
 
-[next]({{ site.url }}/{{ site.baseurl }}/submissions/grading)
+{% capture next_url %} {{ site.baseurl }}/submissions/grading {% endcapture %}
+{% capture next_title %} 5a. Grading {% endcapture %}
+
+{% include page-nav.html %}

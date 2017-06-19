@@ -7,13 +7,15 @@
 
     {% include header.html %}
 
-    <main class="post-content" aria-label="Content">
+    <main class="container-fluid post-content" aria-label="Content">
+      <div class="row">
+        {% include sidebar.html %}
 
-      {% include sidebar.html %}
-
-      <div class="post col-md-9">
-        {{ content }}
+        <div class="post col-9">
+          {{ content }}
+        </div>
       </div>
+      
     </main>
 
     {% include footer.html %}

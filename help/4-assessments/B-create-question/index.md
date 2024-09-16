@@ -6,24 +6,17 @@ title: 4b. Create MCQ / MRQ
 
 To create MCQs:
   1. Navigate to the assessment
-  2. Click **New** and select **MCQ** in the dropdown
-  3. Fill in the details and the corresponding options (make sure you put a correct option!)
-  4. **Submit**
+  2. Click **New Question** and select **MCQ** in the dropdown
+  3. Fill in the question under **Description**.
+  4. Give the question a grade (e.g. 1 mark)
+  5. Fill in the corresponding choices (make sure you check a correct choice as the answer!)
+  4. When done, click **Save Changes**
 
 ![4B-1]({{ site.baseurl }}/images/4B-1.gif)
 
-To create MRQs:
-  1. Navigate to the assessment
-  2. Click **New** and select **MRQ** in the dropdown
-  3. Fill in the details and the corresponding options (you can choose multiple correct options)
-  4. **Submit**
+Creating MRQ is similar, except that you should check more than 1 correct choice for MRQ.
 
-![4B-2]({{ site.baseurl }}/images/4B-2.gif)
+Note that you may also convert the MCQ to MRQ by clicking on the **Convert to MRQ** button at the bottom right. You may do likewise for MRQ to MCQ.
+![4B-2]({{ site.baseurl }}/images/4B-2.png)
 
-{% capture previous_url %} {{ site.baseurl }}/assessments/create-assessment {% endcapture %}
-{% capture previous_title %} 4a. Create Assessment {% endcapture %}
-
-{% capture next_url %} {{ site.baseurl }}/assessments/create-programming-question {% endcapture %}
-{% capture next_title %} 4c. Create Programming Question {% endcapture %}
-
-{% include page-nav.html %}
+{% include page-nav-bottom.html %}

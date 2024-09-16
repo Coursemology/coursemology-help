@@ -1,68 +1,175 @@
 <div class="table-responsive">
   <table class="table table-striped">
-  	<tr>
-  		<th>Title</th>
-    	<th>Description</th>
-  	</tr>
-  	<tr>
-  		<td> 1. Setup </td>
-  		<td>
-  			<ul>
-  				<li>How to setup your Coursemology Account</li>
-  				<li>Setup the profile for your account</li>
-  			</ul>
-  		</td>
-  	</tr>
-  	<tr>
-  		<td>2. Coursemology Settings</td>
-  		<td>
-  			<ul>
-  				<li>Manage the Coursemology Instance's settings</li>
-  			</ul>
-  		</td>
-  	</tr>
-  	<tr>
-  		<td>3. Course</td>
-  		<td>
-  			<ul>
-  				<li>How to create a new course</li>
-  				<li>Add new (students/instructors) to the course</li>
-  				<li>Manage the users within the course</li>
-  			</ul>
-  		</td>
-  	</tr>
-  	<tr>
-  		<td>4. Assessments</td>
-  		<td>
-  			<ul>
-  				<li>How to create a new Assessment</li>
-  				<li>How to create different questions in the assessment</li>
-  				<li>What the interface looks like to the student and instructor</li>
-  			</ul>
-  		</td>
-  	</tr>
-  	<tr>
-  		<td>5. Submissions</td>
-  		<td>
-  			<ul>
-  				<li>Grading of submissions</li>
-  				<li>How to make inline code review of student's code</li>
-  				<li>Handling comments from students</li>
-  			</ul>
-  		</td>
-  	</tr>
-  	<tr>
-  		<td>6. Additional</td>
-  		<td>
-  			<ul>
-  				<li>Creating Announcements</li>
-  				<li>Managing course material for the students to download</li>
-  				<li>Creating achievements</li>
-  				<li>Creating a new lesson plan (timeline for your course)</li>
-  				<li>Creating a forum for discussion</li>
-  				<li>Creating a survey to monitor feedback from students</li>
-  			</ul>
-  		</td>
-  	</tr>
+    <tr>
+      <th>Title</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>1. Setup</td>
+      <td>
+        <ol type="a">
+          <li>
+            <a href="{{ site.baseurl }}/setup/create-account"
+              >How to create your Coursemology Account</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/setup/account-settings"
+              >Setup the profile for your account</a
+            >
+          </li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>2. Admin Settings</td>
+      <td>
+        <ol type="a">
+          <li>
+            <a href="{{ site.baseurl }}/coursemology/settings"
+              >Manage the Coursemology Instance's settings</a
+            >
+          </li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>3. Course</td>
+      <td>
+        <ol type="a">
+          <li>
+            <a href="{{ site.baseurl }}/course/create-course"
+              >How to create a new course</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/course/add-manage-users"
+              >Add new (students/instructors) to the course</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/course/components"
+              >Manage the users within the course</a
+            >
+          </li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>4. Assessments</td>
+      <td>
+        <ol type="a">
+          <li>
+            <a href="{{ site.baseurl }}/assessments/create-assessment"
+              >How to create a new Assessment</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/assessments/create-question"
+              >How to create MCQ/MRQ questions in the assessment</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/assessments/create-programming-question"
+              >How to create MCQ/MRQ questions in the assessment</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/assessments/student-instructor-view"
+              >What the interface looks like to the student and instructor</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/assessments/timeline"
+              >How to set timeline for different classes</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/assessments/statistics"
+              >How to view student statistics</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/assessments/timed-assessment"
+              >How to use timed assessment</a
+            >
+          </li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td>5. Submissions</td>
+      <td>
+        <ol type="a">
+          <li>
+            <a href="{{ site.baseurl }}/submissions/notifications"
+              >Submission Notifications</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/submissions/manual-grading"
+              >Manual Grading</a
+            >
+          </li>
+        </ol>
+      </td>
+    </tr>
+
+    <tr>
+      <td>6. Codaveri</td>
+      <td>
+        <ol type="a">
+          <li>
+            <a href="{{ site.baseurl }}/codaveri/feedback"
+              >Automated Code Feedback</a
+            >
+          </li>
+          <li><a href="{{ site.baseurl }}/codaveri/livehelp">Get Help</a></li>
+          <li>
+            <a href="{{ site.baseurl }}/codaveri/generate"
+              >Problem Generation</a
+            >
+          </li>
+        </ol>
+      </td>
+    </tr>
+
+    <tr>
+      <td>7. Additional</td>
+      <td>
+        <ol type="a">
+          <li>
+            <a href="{{ site.baseurl }}/additional/announcements"
+              >Creating Announcements</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/additional/course-material"
+              >Managing course material for the students to download</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/additional/achievements"
+              >Creating achievements</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/additional/lesson-plan"
+              >Creating a new lesson plan (timeline for your course)</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/additional/forum"
+              >Creating a forum for discussion</a
+            >
+          </li>
+          <li>
+            <a href="{{ site.baseurl }}/additional/survey"
+              >Creating a survey to monitor feedback from students</a
+            >
+          </li>
+        </ol>
+      </td>
+    </tr>
   </table>
 </div>

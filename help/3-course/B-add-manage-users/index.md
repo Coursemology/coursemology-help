@@ -4,39 +4,48 @@ permalink: /course/add-manage-users
 title: 3b. Add / Manage Users
 ---
 
-To add users to your course:
-  1. GOTO: **Manage Users > Invite Users > Individually Add users**
-  2. Input the details of your users and **Submit**
+You may perform the following actions on **Manage Users** page.
 
-![3B-1]({{ site.baseurl }}/images/3B-1.gif)
+[[Invite Users Individually]](#invite-users-individually) [[Invite Users From File]](#invite-users-using-excel-file) [[Upgrade User Roles]](#upgrade-user-roles)
+
+<a id="invite-users-individually"></a>
+
+#### Invite Users Individually:
+
+1. Click on **Manage Users** on the sidebar.
+2. Click on **Invite Users** tab.
+3. Input the details of your users.
+4. Click on **Add Row** to input more entries.
+5. Finally, click **Invite All Users** to send an invitation.
+
+![3B-1]({{ site.baseurl }}/images/3B-1.png)
 
 Invited users will receive the following email.
 
 ![3B-2]({{ site.baseurl }}/images/3B-2.png)
 
-You can also invite users using a excel file. It requires:
-  1. The **Name** and **Email** header in the first row
-  2. To be saved in a **csv** file format.
+<a id="invite-users-using-excel-file"></a>
+
+#### Invite Users From File:
+
+1. Click on **Invite from file**.
+2. Download the **Template File**.
+3. Enter the user details (only name and email is compulsory, the other fields can be left blank).
+4. Save the file in **CSV** file format and upload it.
+
+You will see the users under **Invitations** tab.
 
 ![3B-3]({{ site.baseurl }}/images/3B-3.gif)
 
-Following which, 
-  3. GOTO: **Manage Users > Invite Users > Upload File**
-  4. Upload the csv file and **Update Course**
-  5. You should see a notification stating that the users from the file have been invited
+<a id="upgrade-user-roles"></a>
 
-![3B-4]({{ site.baseurl }}/images/3B-4.gif)
+#### Upgrade User Roles:
 
-To upgrade the user to **Teaching Assistant**, **Manager** or **Owner**,
-  1. GOTO: **Manage Users > Staff**
-  2. Select the user and his/her corresponding role, and **Upgrade to Staff**
+To upgrade the user to **Teaching Assistant**, **Manager**, or **Owner**:
 
-![3B-5]({{ site.baseurl }}/images/3B-5.gif)
+1. Click on **Staff** tab.
+2. Select the corresponding role for that user via the drop-down. The changes will be saved automatically.
 
-{% capture previous_url %} {{ site.baseurl }}/course/create-course {% endcapture %}
-{% capture previous_title %} 3a. Create Course {% endcapture %}
+![3B-4]({{ site.baseurl }}/images/3B-4.png)
 
-{% capture next_url %} {{ site.baseurl }}/assessments/create-assessment {% endcapture %}
-{% capture next_title %} 4a. Create Assessment {% endcapture %}
-
-{% include page-nav.html %}
+{% include page-nav-bottom.html %}

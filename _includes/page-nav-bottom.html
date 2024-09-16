@@ -1,0 +1,40 @@
+{% assign pages_sorted = site.pages | where: "layout", "page" | sort: "title" %}
+{% assign current_index = nil %}
+
+<!-- Find the index of the current page -->
+{% for i in (0..pages_sorted.size) %}
+  {% if pages_sorted[i] == page %}
+    {% assign current_index = i %}
+  {% endif %}
+{% endfor %}
+
+<div class="site-footer">
+        <div class="PageNavigation row">
+            <div class="col-xl-12 col-md-12 col-xs-12">
+                <div class="col-xl-4 col-md-4 col-xs-4">
+                    <!-- Previous Page -->
+                    {% if current_index and current_index > 0 %}
+                        {% assign previous_index = current_index | minus: 1 %}
+                        {% assign previous_page = pages_sorted[previous_index] %}
+                        <a class="prev" href="{{ previous_page.url | relative_url }}">&laquo; {{ previous_page.title }}</a>
+                    {% else %}
+                        &nbsp;
+                    {% endif %}
+                </div>
+                <div class="col-xl-2 col-md-2 col-xs-2 col-xl-auto col-md-auto col-xs-auto">
+                    &nbsp;
+                </div>
+                <div class="col-xl-4 col-md-4 col-xs-4">
+                    <!-- Next Page -->
+                    {% if current_index and current_index < pages_sorted.size | minus: 1 %}
+                        {% assign next_index = current_index | plus: 1 %}
+                        {% assign next_page = pages_sorted[next_index] %}
+                        <a class="next" href="{{ next_page.url | relative_url }}">{{ next_page.title }} &raquo;</a>
+                    {% else %}
+                        &nbsp;
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+</div>  
+

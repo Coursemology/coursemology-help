@@ -8,6 +8,8 @@
 
   // Positioning context for the mobile navigation icon
   position: relative;
+  background-color: $grey-color-background;  // Light grey background color
+
 }
 
 .site-title {
@@ -107,7 +109,8 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit * 0.2 0;
+  background-color: $grey-color-background;  // Light grey background color
 }
 
 .footer-heading {

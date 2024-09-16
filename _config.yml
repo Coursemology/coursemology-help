@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Coursemology Help
-email: your-email@domain.com
+email: coursemology@gmail.com
 description: Here to help you with all your questions about coursemology!
 baseurl: "/coursemology-help" # the subpath of your site, e.g. /blog
-url: "https://github.com/Coursemology" # the base hostname & protocol for your site, e.g. http://example.com
 
+url: "https://coursemology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 theme: minima
 gems:
   - jekyll-feed
@@ -30,4 +31,3 @@ exclude:
   - Gemfile.lock
   - javascripts
   - stylesheets
-

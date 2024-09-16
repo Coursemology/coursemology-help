@@ -4,27 +4,23 @@ permalink: /setup/account-settings
 title: 1b. Manage your account settings
 ---
 
-**NOTE:** New sign-ups are set to students by default.
+<span style="color: red;">**NOTE:** New sign-ups are set to students by default.</span>
 
-Log into Coursemology.
+Sign in to Coursemology.
 
 ![1B-1]({{ site.baseurl }}/images/1B-1.gif)
 
-To set a profile picture: 
-  * GOTO: **"Username" > Account Settings > Profile**
-  * Upload your desired profile picture
+To update your account settings:
+  * Click on your profile picture at the top right corner of the page. 
+  * Choose **Account settings** from the drop down.
+  * You may then update your display name, upload profile picture, or change your password.
 
 ![1B-2]({{ site.baseurl }}/images/1B-2.gif)
 
-Note that as a student, you cannot create a course! (You need to be an instructor.)
+Note that as a student, you cannot create a course! 
+(You need to be an instructor. You can request to be one by clicking on **Request to be an instructor** button)
 
-![1B-3]({{ site.baseurl }}/images/1B-3.gif)
+![1B-3]({{ site.baseurl }}/images/1B-3.png)
 
-<!-- Define variables for page-nav partial -->
-{% capture previous_url %} {{ site.baseurl }}/setup/create-account {% endcapture %}
-{% capture previous_title %} 1a. Create Account {% endcapture %}
 
-{% capture next_url %} {{ site.baseurl }}/coursemology/settings {% endcapture %}
-{% capture next_title %} 2. Coursemology Settings {% endcapture %}
-
-{% include page-nav.html %}
+{% include page-nav-bottom.html %}

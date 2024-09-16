@@ -20,10 +20,8 @@ The instructor is able to see:
 
 ![4D-2]({{ site.baseurl }}/images/4D-2.png)
 
-{% capture previous_url %} {{ site.baseurl }}/assessments/create-programming-question {% endcapture %}
-{% capture previous_title %} 4c. Create Programming Question {% endcapture %}
+Tip: If the student's code contains error(s), check out the **Standard Error** for error log.
 
-{% capture next_url %} {{ site.baseurl }}/submissions/grading {% endcapture %}
-{% capture next_title %} 5a. Grading {% endcapture %}
+![4D-3]({{ site.baseurl }}/images/4D-3.png)
 
-{% include page-nav.html %}
+{% include page-nav-bottom.html %}

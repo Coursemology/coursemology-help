@@ -6,29 +6,24 @@ title: 4c. Create a Programming Question
 
 To create a programming question:
   1. Navigate to the assessment
-  2. Click **New** and select **programming** in the dropdown
-  3. Fill in the details (make sure you select the correct programming language!)
+  2. Click **New Question** and select **Programming** in the dropdown
+  3. Fill in the question under **Description**.
+  4. Give the question a grade (e.g. 2 marks)
 
-![4C-1]({{ site.baseurl }}/images/4C-1.gif)
+![4C-1]({{ site.baseurl }}/images/4C-1.png)
 
-To make it autograded, toggle the **Autograded** bar, and an editor should show up on screen.
-  1. Write into the submission template (what the student sees)
-  2. Write into the solution template (the correct solution to the question)
 
-![4C-2]({{ site.baseurl }}/images/4C-2.gif)
+Choose the desired programming language and evaluator.
+![4C-2]({{ site.baseurl }}/images/4C-2.png)
 
-Following which, you can create public and private test cases for the code by clicking **Add New Test**
+Fill in the submission template (what the student sees) and solution (the correct solution to the question)
+![4C-3]({{ site.baseurl }}/images/4C-3.png)
 
-Minimally, you will need to fill in the fields:
-  * **Expression**
-  * **Expected**
+Following which, you can create public, private or evaluation test cases for the code by clicking **+** sign in the respective section.
 
-![4C-3]({{ site.baseurl }}/images/4C-3.gif)
+Minimally, you will need to fill in the fields **Expression** and **Expected**.
 
-{% capture previous_url %} {{ site.baseurl }}/assessments/create-question {% endcapture %}
-{% capture previous_title %} 4b. Create MCQ / MRQ {% endcapture %}
+![4C-4]({{ site.baseurl }}/images/4C-4.png)
 
-{% capture next_url %} {{ site.baseurl }}/assessments/student-instructor-view {% endcapture %}
-{% capture next_title %} 4d. Student / Instructor's View {% endcapture %}
 
-{% include page-nav.html %}
+{% include page-nav-bottom.html %}
